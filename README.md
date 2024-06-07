@@ -1,1 +1,1 @@
-# quiz
+The Quiz Application is an interactive web-based platform designed to enhance learning and knowledge acquisition through engaging quizzes. This application aims to provide users with a seamless and intuitive interface to test their knowledge on various topics. With the rise of digital education and e-learning platforms, the importance of interactive tools like quiz applications has significantly increased.
